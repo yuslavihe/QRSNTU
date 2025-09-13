@@ -1,3 +1,4 @@
+# .github/workflows/deploy.yml
 name: Deploy site to GitHub Pages
 
 on:
@@ -20,12 +21,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Prepare site
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Optional, but recommended by GitHub's starter patterns
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Prepare static site
         run: |
           mkdir -p _site
           cp -R Website/v1/* _site/
-      - name: Upload artifact
+          # Persist custom domain (optional but recommended if using a custom domain)
+          echo "qrsntu.org" > _site/CNAME
+          # Provide a fallback 404 (optional)
+          if [ ! -f _site/404.html ] && [ -f _site/index.html ]; then cp _site/index.html _site/404.html; fi
+
+      - name: Upload artifact to Pages
         uses: actions/upload-pages-artifact@v3
         with:
           path: _site
