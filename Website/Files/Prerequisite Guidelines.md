@@ -73,7 +73,7 @@ Completion of any of the following programs demonstrates **advanced mastery**, a
   * **Math Foundations for Financial Engineers**: 30-hour course covering essential math frameworks for financial modeling.
   * **Statistics for Financial Engineers**: 30-hour course covering probability, statistics, and modeling techniques. (VEE Approved)
 
-* [Pre-MFE Program | Baruch College](https://mfe.baruch.cuny.edu/pre-mfe-program/) (US\$1,650)
+* [Pre-MFE Program | Baruch College](https://mfe.baruch.cuny.edu/pre-mfe-program/) (US\$1,650 per course)
 
   * **Advanced Calculus with Financial Engineering Applications**
   * **Probability Theory for Financial Applications**
