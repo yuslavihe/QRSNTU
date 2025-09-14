@@ -6,9 +6,9 @@ permalink: /publications/prerequisite-guidelines/
 ---
 
 
-# 📋 Application Prerequisite Guidelines — Quantitative Research Society \@NTU
+# 📋 Application Prerequisite Guidelines — Quantitative Research Society @NTU
 
- Quantitative Research Society \@NTU is an advanced, research-focused society. To ensure applicants are prepared for the rigor of our workshops, all applicants must complete foundational coursework in **mathematics, statistics, and programming**.
+ Quantitative Research Society @NTU is an advanced, research-focused society. To ensure applicants are prepared for the rigor of our workshops, all applicants must complete foundational coursework in **mathematics, statistics, and programming**.
 
 Applicants may satisfy prerequisites through:
 
