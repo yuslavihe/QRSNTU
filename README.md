@@ -28,7 +28,7 @@ A small, elite academic society at NTU dedicated to advancing quantitative resea
 ## 🚀 Flagship Project: [ntuinfo.com](https://ntuinfo.com)
 - Designed a **quantitative scoring framework** for 100+ student clubs using multi-criteria optimization (mental load, physical load, difficulty).
 - Built a **bilingual English/Chinese full-stack Java application** to consolidate campus resources into algorithmically ranked recommendations.
-- Led **end-to-end project delivery**: requirements → algorithm design → GitHub deployment.
+- **End-to-end project delivery**: requirements → algorithm design → GitHub deployment.
 
 ---
 
