@@ -34,13 +34,6 @@ A small, elite academic society at NTU dedicated to advancing quantitative resea
 
 ## 🏆 Awards & Recognition
 
-### Dynamic Multi-Objective Retirement Portfolio Optimisation  
-**Finalist — 4ᵗʰ China Future Financial Analyst Competition (CFA China), 2025**  
-- Formulated retirement planning as a **vector-valued stochastic control problem** with wealth balance & annuity constraints.  
-- Built a **Proximal Policy Optimisation (PPO) agent** from scratch; modelled time-varying return covariances & stochastic mortality; trained on Monte Carlo market paths.  
-- Outperformed glide-path benchmarks: **2× higher terminal wealth** and **74.7% annuity adequacy**.  
-- Authored a **19-page technical report** and open-sourced the code & paper (GitHub).  
-- Reached **national finals**.
 ---
 
 ## 👥 Membership Structure
