@@ -7,8 +7,10 @@ permalink: /publications/prerequisite-guidelines/
 
 
 # 📋 Application Prerequisite Guidelines — Quantitative Research Society \@NTU
-_Published on September 14, 2025_
+
 ---
+_Published on September 14, 2025_
+
  Quantitative Research Society \@NTU is an advanced, research-focused society. To ensure applicants are prepared for the rigor of our workshops, all applicants must complete foundational coursework in **mathematics, statistics, and programming**.
 
 Applicants may satisfy prerequisites through:
