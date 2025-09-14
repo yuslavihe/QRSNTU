@@ -72,22 +72,21 @@ Applicants completing any of these courses may be allowed to **skip Semester 1**
 
 ---
 
-<section class="prose max-w-none" markdown="1">
 ## 5. Advanced Preparation — *guaranteed accelerated placement / research readiness*
 
 Completion of any of the following programs demonstrates **advanced mastery**, allowing applicants to **enter Semester 2, Semester 3, or participate in research projects immediately**.
 
-* [MFE Preparation | Master of Financial Engineering | Berkeley Haas](https://mfe.haas.berkeley.edu/academics/mfe-preparation) (US$1,995 per course)
+* [MFE Preparation \| Master of Financial Engineering \| Berkeley Haas](https://mfe.haas.berkeley.edu/academics/mfe-preparation) (US$1,995 per course)
   * **Math Foundations for Financial Engineers**: 30-hour course covering essential math frameworks for financial modeling.
   * **Statistics for Financial Engineers**: 30-hour course covering probability, statistics, and modeling techniques. (VEE Approved)
-* [Pre-MFE Program | Baruch College](https://mfe.baruch.cuny.edu/pre-mfe-program/) (US$1,650 per course)
+* [Pre-MFE Program \| Baruch College](https://mfe.baruch.cuny.edu/pre-mfe-program/) (US$1,650 per course)
   * **Advanced Calculus with Financial Engineering Applications**
   * **Probability Theory for Financial Applications**
   * **Numerical Linear Algebra for Financial Engineering**
   * **Machine Learning for Financial Engineering Applications**
 
 Completion of these programs demonstrates strong quantitative and computational foundations and may allow direct placement into **QRS\@NTU advanced workshops or research projects**.
-</section>
+
 
 
 ---
